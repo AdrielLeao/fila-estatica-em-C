@@ -7,11 +7,11 @@ As filas (queue, em inglês) são um tipo de estrutura de dados onde os elemento
 - Ao inserir um elemento, ele vai para a última posição da estrutura;
 - Ao retirar um elemento, é tirado o primeiro elemento da estrutura.
 
-Este tipo de estrutura de dados é dita ser FIFO (First in, first out), ou seja, o primeiro elemento a entrar na estrutura é o primeiro a sair.
+Este tipo de estrutura de dados é dita FIFO (First in, first out), ou seja, o primeiro elemento a entrar na estrutura é o primeiro a sair.
 
-Por exemplo, uma fila de um banco, onde possui uma fila para efetuar pagamento de boleto em um caixa. Suponhamos que a fila do caixa possui 5 pessoas, consequentemente se uma outra pessoa deseja entrar nessa fila, ela sá a sexta da fila, ou seja, ela estará na última posição da estrutura. A primeira pessoa desta fila, ela será atendida e irá se terirar, ou seja, irá retirar o primeiro elemento da estrutura. E assim, subsequentemente até não possui mais ninguém na fila.
+Por exemplo, uma fila de um banco, onde possui uma fila para efetuar pagamento de boleto em um caixa. Suponhamos que a fila do caixa possui 5 pessoas, consequentemente se uma outra pessoa deseja entrar nessa fila, ela será a sexta da fila, ou seja, ela estará na última posição da estrutura. A primeira pessoa desta fila será atendida e irá se retirar, ou seja, irá retirar o primeiro elemento da estrutura. E assim subsequentemente até não possui mais ninguém na fila.
 
-Ou seja, sempre que inserimos elementos nessa fila, inserimos ao final. E sempre que retiramos, estamos tirando o primeiro elemento da fila (o mais antigo), pois o que está na frente que vai sair antes.
+Ou seja, sempre que inserimos elementos nessa fila, inserimos ao final. E sempre que retiramos, estamos retirando o primeiro elemento da fila (o mais antigo), pois o que está na frente que vai sair antes.
 
 Em outras palavras, inserimos ao fim, e retiramos do começo.
 

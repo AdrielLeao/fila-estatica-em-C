@@ -158,3 +158,5 @@ int main(int argc,char**argv)
 }
 </code>
 </pre>
+
+O código acima, é apenas um exemplo prático de fila estática na linguagem de programação C.

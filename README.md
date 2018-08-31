@@ -159,4 +159,4 @@ int main(int argc,char**argv)
 </code>
 </pre>
 
-O código acima, é apenas um exemplo prático de fila estática na linguagem de programação C.
+O código acima, é apenas um exemplo prático de fila estática na linguagem de programação C. Este código pode ser melhorado ainda mais, uma vez que a função <i>Menu();</i> está chamando ela a todo instante. Vemos então que está tendo uma recursão e consumindo memória, a memória só é liberada quando o aplicação é encerrada.
